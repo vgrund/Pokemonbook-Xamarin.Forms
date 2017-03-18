@@ -2,6 +2,7 @@
 Xamarin.Forms app for iOS and Android, with Azure EasyTables service.
 
 CSV:
+
 Number,Type,Name,Weight,Height,BaseExperience,Sprite
 1,poison,Bulbasaur,69,7,64,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1.png
 4,fire,charmander,85,6,62,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/4.png
